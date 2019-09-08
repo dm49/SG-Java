@@ -1,0 +1,12 @@
+C3::Coffee::1.00::5
+A1::Potato Chips::0.50::4
+A2::Ranch Chips::0.50::4
+B3::Fruit Chews::0.75::5
+C4::Water::1.00::5
+A3::BBQ Chips::0.50::5
+B4::Mint Gum::0.25::5
+A4::Cheese Chips::0.50::5
+C1::Cola::1.00::5
+B1::Chocolate Bar::0.75::5
+C2::Root Beer::1.00::5
+B2::Peanut Butter Cups::0.75::5
